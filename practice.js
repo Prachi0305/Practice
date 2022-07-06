@@ -1,4 +1,4 @@
-const age = 39
+const age = 60
 
 if (age<50){
     console.log('you can swipe up')
